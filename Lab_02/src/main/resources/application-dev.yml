@@ -1,0 +1,4 @@
+logging:
+  file: src/main/logs/dev_app.log
+  level:
+    org.springframework.web: DEBUG

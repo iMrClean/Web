@@ -1,0 +1,4 @@
+logging:
+  file: src/main/logs/prod_app.log
+  level:
+    org.springframework.web: WARN
